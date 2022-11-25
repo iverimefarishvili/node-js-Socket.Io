@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/iverimefarishvili/node-js-Socket.Io#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "socket.io": "^4.5.4"
   }
 }
